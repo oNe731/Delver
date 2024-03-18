@@ -1,2 +1,2 @@
-# 5th_SR_Team3Project
-Jusin Team3 SR Team Project
+# Delver
+2023년 DirectX9 팀프로젝트 : Delver 모작
